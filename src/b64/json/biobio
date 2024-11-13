@@ -1,0 +1,906 @@
+[
+    [
+        "Patente",
+        "Fecha Tránsito",
+        "Plaza",
+        "VíaPeaje",
+        "Sentido",
+        "Importe"
+    ],
+    [
+        "LJDY91",
+        45383.4848934028,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45383.6022566782,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LWTY47",
+        45383.6110241551,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LJDY91",
+        45383.6683375347,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LJDP77",
+        45383.7762087616,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LCPP67",
+        45384.3739855324,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45384.4309173264,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LPPW94",
+        45384.4522943634,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45384.4853720718,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45384.4860305556,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45384.6048946759,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45384.5509418171,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LCPP67",
+        45384.7293228819,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45384.7919967245,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LWTY47",
+        45384.7922812847,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45385.374913044,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LJDP77",
+        45385.5789652431,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LTGK61",
+        45385.7092352662,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LBSL19",
+        45385.7985713773,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LBSL19",
+        45385.8525569097,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45386.3803209491,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45386.3989642014,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KXHH32",
+        45386.7159635069,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "LXHC65",
+        45386.9034719097,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45386.9345283912,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LBDG13",
+        45387.6418642708,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LJDP77",
+        45387.664925544,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45387.6888740394,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45387.6873797801,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "KXHH32",
+        45387.6942977199,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "LBDG13",
+        45387.8651673611,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 503",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45388.3794827894,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45388.7908549769,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45389.5649061343,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45389.8235551736,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LFGL21",
+        45390.4691521181,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LFGL21",
+        45390.5596374653,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "KXHH32",
+        45390.7788150116,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "KXHH32",
+        45390.7257396644,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "KXHH33",
+        45390.8418375,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LVGK48",
+        45391.5977083681,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45391.7726917014,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45391.8980650463,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45393.3621976852,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45393.4219477662,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45393.5384763542,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45393.4650457986,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45393.8512229514,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LGYK15",
+        45393.9077108449,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 533",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KVJG15",
+        45394.3366313657,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LGYK15",
+        45394.8618296644,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JKDJ14",
+        45394.9089104514,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LBSL19",
+        45393.8312483449,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LBSL19",
+        45393.8810543981,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "KVJG15",
+        45396.7963099884,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "LGGC91",
+        45397.4899540857,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LGGC91",
+        45397.7889358449,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JKDJ14",
+        45396.7491667477,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHH28",
+        45398.5452734607,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LCTG20",
+        45398.6100513079,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LCTG20",
+        45398.7780824421,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45398.7818496181,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45398.8462825579,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45399.4355848032,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45399.7532902778,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 503",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LKVH92",
+        45399.7608250347,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 503",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45399.4239194097,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LBSL19",
+        45401.0134037037,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LBSL19",
+        45400.8672452546,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHH28",
+        45401.662425544,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JKDJ14",
+        45401.9041988773,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45403.8293322569,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LRSS46",
+        45403.845887419,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JKDJ14",
+        45403.7604514699,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45404.6161065972,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45404.7200861921,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "LXHC49",
+        45404.7503010069,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LGGC91",
+        45405.4246804745,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45405.4467914005,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LVGZ90",
+        45405.4534827199,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LRSS46",
+        45405.4654894329,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LVGZ90",
+        45405.6151681713,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45405.7283422801,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45405.8114787847,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LGGC91",
+        45405.8091144329,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45405.8205605671,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45406.3678987269,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45406.6333739931,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45406.7734842593,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KTXX31",
+        45406.9156696759,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45404.6341317477,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 633",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LPPW94",
+        45407.8882322569,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45407.3317335301,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45407.3848356134,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LKVK57",
+        45408.273465625,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "JHBB33",
+        45408.4222878125,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LJDY91",
+        45408.4856813657,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "JKDJ14",
+        45408.9373660532,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45410.7115887384,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "JKDJ14",
+        45410.7526295949,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LXHC49",
+        45410.8484018519,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LBSL19",
+        45407.8696359144,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LRSZ18",
+        45407.7355638079,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "JHBB33",
+        45408.5249177893,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KXHH33",
+        45411.4537966782,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LPPW94",
+        45411.8929731829,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 502",
+        "PONIENTE",
+        3400
+    ],
+    [
+        "LPPW94",
+        45411.4097697569,
+        "PLAZA DE PEAJE HUINANCO",
+        "VIA 532",
+        "ORIENTE",
+        3400
+    ],
+    [
+        "KXHH33",
+        45411.7955033218,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "KXHH33",
+        45412.3803133912,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "LRSZ18",
+        45412.6877962153,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 632",
+        "PONIENTE",
+        500
+    ],
+    [
+        "KXHH33",
+        45412.8976913542,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ],
+    [
+        "LRSZ18",
+        45412.7281434838,
+        "PLAZA DE PEAJE PUENTES NEGROS",
+        "VIA 602",
+        "ORIENTE",
+        500
+    ]
+]
