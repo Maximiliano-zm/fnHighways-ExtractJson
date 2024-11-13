@@ -1,37 +1,26 @@
-import ExtractJsons from "./services/fnHighways-ExtractJson.js";
+import Controller from "./controller/controller.js";
 import { app } from "@azure/functions";
-
+app.setup({
+  enableHttpStream: true,
+});
 app.http("fnHighways-ExtractJson", {
   methods: ["POST"],
   authLevel: "anonymous",
+  headers: {
+    'Content-Type': 'application/json'
+  },
   handler: async (request, context) => {
     try {
       const json = request.query.get("json") || (await request.json());
-
-      // Validar que el JSON tenga la propiedad B64File
-      if (!json.B64File) {
-        return {
-          status: 400,
-          jsonBody: { error: "Falta la propiedad B64File en el JSON" },
-        };
-      }
-
-      const respuesta = await ExtractJsons(json);
-
+      const respuesta = await Controller(json);
+      JSON.stringify(respuesta)
       if (!respuesta) {
-        return {
-          status: 400,
-          jsonBody: { error: "Error al extraer datos de la columna D" },
-        };
+        return { status: 400, jsonBody: { error: "Error en el body" } };
       } else {
-        // Asegurarte de que la respuesta es un JSON correctamente formateado
-        return { status: 200, jsonBody: respuesta };
+        return {jsonBody : respuesta};
       }
     } catch (error) {
-      console.error("Error en el endpoint JsonToExcel:", error);
       return { status: 500, jsonBody: { error: "Error interno del servidor" } };
     }
-  },
+  }
 });
-
-export default app;
